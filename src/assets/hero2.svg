@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <defs>
+    <linearGradient id="g2" x1="0" x2="1">
+      <stop offset="0" stop-color="#06b6d4"/>
+      <stop offset="1" stop-color="#3b82f6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="900" fill="url(#g2)" />
+  <g fill="rgba(255,255,255,0.08)">
+    <circle cx="200" cy="200" r="160" />
+    <circle cx="1200" cy="700" r="120" />
+  </g>
+  <text x="70" y="180" font-family="Outfit, Inter, sans-serif" font-size="48" fill="rgba(255,255,255,0.95)">Learn • Practice • Improve</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <defs>
+    <linearGradient id="g3" x1="0" x2="1">
+      <stop offset="0" stop-color="#10b981"/>
+      <stop offset="1" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="900" fill="url(#g3)" />
+  <g fill="rgba(255,255,255,0.09)">
+    <rect x="220" y="160" width="960" height="560" rx="40" />
+  </g>
+  <text x="70" y="180" font-family="Outfit, Inter, sans-serif" font-size="48" fill="rgba(255,255,255,0.95)">AI Study Assistant</text>
+  <text x="70" y="240" font-family="Inter, sans-serif" font-size="24" fill="rgba(255,255,255,0.85)">Ask questions, schedule revisions, get formula derivations</text>
+</svg>

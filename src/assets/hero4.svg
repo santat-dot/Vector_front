@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <defs>
+    <linearGradient id="g4" x1="0" x2="1">
+      <stop offset="0" stop-color="#f59e0b"/>
+      <stop offset="1" stop-color="#ef4444"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="900" fill="url(#g4)" />
+  <g fill="rgba(255,255,255,0.08)">
+    <ellipse cx="700" cy="450" rx="480" ry="220" />
+  </g>
+  <text x="70" y="180" font-family="Outfit, Inter, sans-serif" font-size="48" fill="rgba(255,255,255,0.95)">College Predictor</text>
+  <text x="70" y="240" font-family="Inter, sans-serif" font-size="24" fill="rgba(255,255,255,0.85)">Accurate cutoff-based recommendations</text>
+</svg>
