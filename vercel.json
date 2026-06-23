@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/api/:path*",
-      "destination": "https://vector-back-yfif.onrender.com/api/:path*"
+      "source": "/api/(.*)",
+      "destination": "https://vector-back-yfif.onrender.com/api/$1"
     }
   ]
 }
